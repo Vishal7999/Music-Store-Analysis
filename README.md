@@ -7,5 +7,5 @@ This project describes how to analyze the music playlist database. We can examin
 - MySQL Workbench
 - SQL
 
+## Schema- Music Store Database
 ![image](https://github.com/Vishal7999/Music_Store_Analysis/assets/145573983/349307eb-787c-461e-96cb-abcea3ef4f72)
-
